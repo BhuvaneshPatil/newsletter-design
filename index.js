@@ -40,6 +40,6 @@ window.addEventListener("load", function () {
 		slide();
 	}
 
-	// sliderAuto(glider, 2000);
-	// sliderAuto(glider2, 2000);
+	sliderAuto(glider, 12000);
+	sliderAuto(glider2, 12000);
 });
